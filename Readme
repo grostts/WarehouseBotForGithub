@@ -1,0 +1,2 @@
+This is my first project to create a telegram bot.
+This bot can be used for warehouse operations. It records the usage of parts in a SQL database and returns an excel file on request.
